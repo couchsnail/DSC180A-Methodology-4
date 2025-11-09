@@ -1,4 +1,4 @@
-# Camille Sicat (cisicat@ucsd.edu)
+Camille Sicat (cisicat@ucsd.edu)
 DSC 180A Section B18: [Deep learning for understanding microbiome results](https://dsc-capstone.org/enrollment/)  
 Mentor: Professor Rob Knight (rknight@ucsd.edu)
 
